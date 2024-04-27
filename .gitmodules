@@ -1,0 +1,3 @@
+[submodule "mos-lite-default-settings"]
+	path = mos-lite-default-settings
+	url = git@github.com:project-altitude/mos-lite-default-settings.git
